@@ -1,1 +1,23 @@
-# 121
+{
+  "courses": [
+    {"name":"数据科学导论","teacher":"许明","position":"云桌面机房研讨型教室实验楼北420","day":1,"sections":"1,2","weeks":"1,2,3,4,5,6,7,8,9,10,11"},
+    {"name":"数据科学导论","teacher":"许明","position":"云桌面机房研讨型教室实验楼北420","day":3,"sections":"3,4","weeks":"2,4,6,8,10"},
+    {"name":"大学英语（4）","teacher":"姜斐斐","position":"尔雅楼411","day":1,"sections":"3,4","weeks":"3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18"},
+    {"name":"大学英语（4）","teacher":"姜斐斐","position":"尔雅楼411","day":4,"sections":"1,2","weeks":"3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18"},
+    {"name":"操作系统","teacher":"郭伟","position":"静远楼313","day":2,"sections":"3,4","weeks":"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16"},
+    {"name":"操作系统","teacher":"郭伟","position":"静远楼242","day":5,"sections":"3,4","weeks":"2,4,6,8,10,12,14,16"},
+    {"name":"Python语言与数据分析","teacher":"周启超","position":"云桌面机房实验楼南409","day":3,"sections":"1,2","weeks":"1,2,3,4,5,6,7,8,9,10,11"},
+    {"name":"Python语言与数据分析","teacher":"周启超","position":"云桌面机房实验楼南409","day":5,"sections":"1,2","weeks":"1,3,5,7,9"},
+    {"name":"形势与政策（4）","teacher":"率婷","position":"尔雅楼221","day":6,"sections":"1,2","weeks":"3"},
+    {"name":"创业基础","teacher":"李坤","position":"静远楼127","day":4,"sections":"3,4","weeks":"3,5,7,9,11"},
+    {"name":"创业基础","teacher":"李坤","position":"尔雅楼105","day":1,"sections":"7,8","weeks":"2,3,4,5,6,7,8,9,10,11,12"},
+    {"name":"大学体育（4）","teacher":"H体育部","position":"H室外","day":5,"sections":"5,6","weeks":"2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18"},
+    {"name":"数据库原理与应用","teacher":"郭文越","position":"静远楼236","day":2,"sections":"7,8","weeks":"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16"},
+    {"name":"数据库原理与应用","teacher":"郭文越","position":"静远楼236","day":4,"sections":"7,8","weeks":"2,4,6,8,10,12,14,16"}
+  ],
+  "schedule": {
+    "morningNum": 4,
+    "afternoonNum": 4,
+    "nightNum": 4
+  }
+}
